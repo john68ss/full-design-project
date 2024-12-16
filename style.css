@@ -173,6 +173,10 @@ button {
 
 /*This will be the contact me option*/
 
+.cta {
+    height: 300px;
+}
+
 .cta > .content {
     margin-top: 80px;
     margin-bottom: 80px;
